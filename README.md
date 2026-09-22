@@ -12,6 +12,24 @@ Download this project and double-click **`index.html`**. No server, installation
 
 To publish: create a public GitHub repository named **`FUTURE_DS_01`**, upload the *contents* of this folder to its root, and enable GitHub Pages from the `main` branch root. The address will be `https://sajidexpertise.github.io/FUTURE_DS_01/` if the repository belongs to that account. Verify the URL after publishing.
 
+## 📊 Interactive Dashboard Preview
+
+<p align="center">
+  <a href="https://sajidexpertise.github.io/FUTURE_DS_01/">
+    <img src="dashboard.png"
+         alt="NORTHSTAR Business Sales Performance Dashboard — Future Interns Task 1"
+         width="100%">
+  </a>
+</p>
+
+<p align="center">
+  <strong>
+    <a href="https://sajidexpertise.github.io/FUTURE_DS_01/">
+      🚀 Open the Live Interactive Dashboard
+    </a>
+  </strong>
+</p>
+
 ## Executive findings
 
 For 2025, recognized net sales were **$225,031.45**, up **23.2%** from 2024; gross profit was **$102,404.45**, up **22.6%**. Gross margin was **45.5%**, approximately **0.24 percentage points lower** than 2024. North led regional sales at **$70,145.85**, closely followed by East at **$68,377.05**. Home Office led categories at **$67,499.60**, and the Ergonomic Chair led individual products at **$35,206.50**. Marketplace had the highest 2025 return rate, **25 of 335 orders (7.46%)**.
