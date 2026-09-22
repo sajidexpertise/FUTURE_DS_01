@@ -1,0 +1,297 @@
+{
+  "about": "Synthetic demonstration data; no real customers or transactions.",
+  "2024": {
+    "year": 2024,
+    "orders": 1626,
+    "returns": 83,
+    "return_rate": 0.0486,
+    "sales": 182601.9,
+    "profit": 83529.9,
+    "margin": 0.4574,
+    "aov": 112.3,
+    "monthly": {
+      "2024-01": 11584.65,
+      "2024-02": 10239.2,
+      "2024-03": 14440.9,
+      "2024-04": 13793.3,
+      "2024-05": 14619.4,
+      "2024-06": 13498.0,
+      "2024-07": 13110.4,
+      "2024-08": 15844.0,
+      "2024-09": 15622.35,
+      "2024-10": 18132.65,
+      "2024-11": 20212.15,
+      "2024-12": 21504.9
+    },
+    "region": {
+      "East": {
+        "sales": 47659.1,
+        "profit": 21741.1,
+        "orders": 428
+      },
+      "North": {
+        "sales": 59445.75,
+        "profit": 27215.75,
+        "orders": 508
+      },
+      "South": {
+        "sales": 46050.95,
+        "profit": 20957.95,
+        "orders": 402
+      },
+      "West": {
+        "sales": 29446.1,
+        "profit": 13615.1,
+        "orders": 288
+      }
+    },
+    "category": {
+      "Everyday": {
+        "sales": 38208.6,
+        "profit": 19262.6,
+        "orders": 486
+      },
+      "Home Office": {
+        "sales": 51772.4,
+        "profit": 23291.4,
+        "orders": 416
+      },
+      "Kitchen": {
+        "sales": 45487.85,
+        "profit": 20144.85,
+        "orders": 337
+      },
+      "Living": {
+        "sales": 47133.05,
+        "profit": 20831.05,
+        "orders": 387
+      }
+    },
+    "product": {
+      "Accent Cushion": {
+        "sales": 10228.1,
+        "profit": 5528.1,
+        "orders": 177
+      },
+      "Canvas Tote": {
+        "sales": 6897.6,
+        "profit": 4197.6,
+        "orders": 160
+      },
+      "Cast Iron Pan": {
+        "sales": 15201.0,
+        "profit": 5761.0,
+        "orders": 90
+      },
+      "Ceramic Dinner Set": {
+        "sales": 17998.4,
+        "profit": 8365.4,
+        "orders": 127
+      },
+      "Desk Lamp": {
+        "sales": 15454.1,
+        "profit": 7586.1,
+        "orders": 194
+      },
+      "Ergonomic Chair": {
+        "sales": 23005.5,
+        "profit": 8893.5,
+        "orders": 74
+      },
+      "Insulated Bottle": {
+        "sales": 11264.4,
+        "profit": 6170.4,
+        "orders": 207
+      },
+      "Linen Throw": {
+        "sales": 17712.0,
+        "profit": 8206.0,
+        "orders": 137
+      },
+      "Monitor Riser": {
+        "sales": 13312.8,
+        "profit": 6811.8,
+        "orders": 148
+      },
+      "Oak Side Table": {
+        "sales": 19192.95,
+        "profit": 7096.95,
+        "orders": 73
+      },
+      "Pour Over Kit": {
+        "sales": 12288.45,
+        "profit": 6018.45,
+        "orders": 120
+      },
+      "Travel Backpack": {
+        "sales": 20046.6,
+        "profit": 8894.6,
+        "orders": 119
+      }
+    },
+    "channel": {
+      "Marketplace": {
+        "sales": 40745.95,
+        "profit": 18096.95,
+        "orders": 371
+      },
+      "Online": {
+        "sales": 75715.55,
+        "profit": 34541.55,
+        "orders": 666
+      },
+      "Retail": {
+        "sales": 66140.4,
+        "profit": 30891.4,
+        "orders": 589
+      }
+    }
+  },
+  "2025": {
+    "year": 2025,
+    "orders": 1928,
+    "returns": 92,
+    "return_rate": 0.0455,
+    "sales": 225031.45,
+    "profit": 102404.45,
+    "margin": 0.4551,
+    "aov": 116.72,
+    "monthly": {
+      "2025-01": 11944.35,
+      "2025-02": 12477.25,
+      "2025-03": 13763.4,
+      "2025-04": 15989.7,
+      "2025-05": 17202.0,
+      "2025-06": 18876.25,
+      "2025-07": 19860.2,
+      "2025-08": 16579.45,
+      "2025-09": 19040.85,
+      "2025-10": 25742.65,
+      "2025-11": 26571.3,
+      "2025-12": 26984.05
+    },
+    "region": {
+      "East": {
+        "sales": 68377.05,
+        "profit": 30955.05,
+        "orders": 567
+      },
+      "North": {
+        "sales": 70145.85,
+        "profit": 31843.85,
+        "orders": 577
+      },
+      "South": {
+        "sales": 54405.35,
+        "profit": 24851.35,
+        "orders": 481
+      },
+      "West": {
+        "sales": 32103.2,
+        "profit": 14754.2,
+        "orders": 303
+      }
+    },
+    "category": {
+      "Everyday": {
+        "sales": 49428.5,
+        "profit": 24800.5,
+        "orders": 582
+      },
+      "Home Office": {
+        "sales": 67499.6,
+        "profit": 29856.6,
+        "orders": 483
+      },
+      "Kitchen": {
+        "sales": 54196.3,
+        "profit": 23940.3,
+        "orders": 395
+      },
+      "Living": {
+        "sales": 53907.05,
+        "profit": 23807.05,
+        "orders": 468
+      }
+    },
+    "product": {
+      "Accent Cushion": {
+        "sales": 12794.9,
+        "profit": 6914.9,
+        "orders": 218
+      },
+      "Canvas Tote": {
+        "sales": 8499.2,
+        "profit": 5151.2,
+        "orders": 193
+      },
+      "Cast Iron Pan": {
+        "sales": 19649.25,
+        "profit": 7329.25,
+        "orders": 116
+      },
+      "Ceramic Dinner Set": {
+        "sales": 18166.4,
+        "profit": 8476.4,
+        "orders": 126
+      },
+      "Desk Lamp": {
+        "sales": 15088.7,
+        "profit": 7472.7,
+        "orders": 200
+      },
+      "Ergonomic Chair": {
+        "sales": 35206.5,
+        "profit": 13462.5,
+        "orders": 112
+      },
+      "Insulated Bottle": {
+        "sales": 13465.2,
+        "profit": 7417.2,
+        "orders": 235
+      },
+      "Linen Throw": {
+        "sales": 18441.6,
+        "profit": 8445.6,
+        "orders": 152
+      },
+      "Monitor Riser": {
+        "sales": 17204.4,
+        "profit": 8921.4,
+        "orders": 171
+      },
+      "Oak Side Table": {
+        "sales": 22670.55,
+        "profit": 8446.55,
+        "orders": 98
+      },
+      "Pour Over Kit": {
+        "sales": 16380.65,
+        "profit": 8134.65,
+        "orders": 153
+      },
+      "Travel Backpack": {
+        "sales": 27464.1,
+        "profit": 12232.1,
+        "orders": 154
+      }
+    },
+    "channel": {
+      "Marketplace": {
+        "sales": 38080.15,
+        "profit": 16787.15,
+        "orders": 310
+      },
+      "Online": {
+        "sales": 106173.05,
+        "profit": 48787.05,
+        "orders": 909
+      },
+      "Retail": {
+        "sales": 80778.25,
+        "profit": 36830.25,
+        "orders": 709
+      }
+    }
+  }
+}
